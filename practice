@@ -1,0 +1,18 @@
+#!/bin/bash
+
+ #print below line 
+ echo "Hello World"
+    #print below line
+    echo "Welcome to Shell Scripting"
+    #print below line
+    echo "This is my first script"
+    #print below line
+    echo "I am learning Shell Scripting"
+    #print below line
+    echo "Shell Scripting is fun"
+    #print below line
+    echo "I will become a Shell Scripting expert"
+    #print below line
+    echo "I am excited to learn Shell Scripting"
+    #print below line
+    echo "Shell Scripting is a powerful tool"
