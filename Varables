@@ -2,7 +2,7 @@
 
 Person1 = Kotesh
 
-Person2= Priya
+Person2= Priyanka
 
 echo $Person1 = Hi , How are you ?
 
