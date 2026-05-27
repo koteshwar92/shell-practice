@@ -2,9 +2,9 @@
 
 Number=100
 
-if [$Number -gt 20 ];then
+if [ $Number -gt 20 ];then
 
-echo "given number: $Number is greater than 20"
+echo "given number $Number is greater than 20"
 
 fi
 
